@@ -1,0 +1,16 @@
+# LLM
+openai
+langchain
+langgraph
+langchain-openai
+langchain-community
+# RAG / Indexing
+faiss-cpu
+numpy
+tiktoken
+tqdm
+# Config
+pydantic
+python-dotenv
+rich
+jsonlines
