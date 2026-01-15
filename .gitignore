@@ -1,0 +1,18 @@
+# Ignore .env files
+.env
+
+# Ignore .venv files
+.venv/
+
+# Ignore Python cache files
+__pycache__/
+
+# Ignore index files
+index/  
+
+# Ignore reports
+reports/
+
+# Ignore specific OS files
+.DS_Store   
+Thumbs.db
